@@ -5,9 +5,13 @@ Version 0.1
 
 This playbook helps Defra teams decide whether a use case is a good fit for:
 
-- 🤖 AI Agents  
-- 🔁 AI-Driven Workflows  
-- 🤝 Multi-Agent Systems  
+- 🤖 **AI Agents** – autonomous systems that make decisions or take actions in pursuit of defined goals, often adapting to real-time inputs and environmental context.
+
+- 🔁 **AI-Driven Workflows** – orchestrated sequences of rules, models, and tasks, typically including human-in-the-loop review and strong auditability.
+
+- 🤖 **Traditional Automation (RPA)** – scripted bots that automate repetitive, rule-based tasks, usually via user interfaces (e.g. form filling, copying data between systems).
+
+- 🤝 **Multi-Agent Systems** – a group of coordinated AI agents (or components) that interact to achieve shared or individual objectives, often across domains or roles.
 
 It provides practical guidance to assess, design, and implement AI responsibly in line with the **UK Government AI Playbook** principles: **Safe**, **Effective**, **Responsible**, **Explainable**, and **Fair**.
 
