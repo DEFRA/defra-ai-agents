@@ -1,10 +1,10 @@
-## 🛠️ 5. Technical & Delivery Guidance
+## 🛠️ 2.6. Technical & Delivery Guidance
 
 This section provides practical guidance for designing, building, testing, and deploying AI agents, workflows, RPA bots, and multi-agent systems within Defra.
 
 ---
 
-### 🧱 5.1 System Architecture Layers
+### 🧱 System Architecture Layers
 
 Most intelligent systems can be broken down into four layers:
 
@@ -19,7 +19,7 @@ Most intelligent systems can be broken down into four layers:
 
 ---
 
-### 🛠️ 5.2 Tool Selection & Integration
+### 🛠️ Tool Selection & Integration
 
 | Task / Goal                           | Recommended Tools / Stack |
 |---------------------------------------|----------------------------|
@@ -31,7 +31,7 @@ Most intelligent systems can be broken down into four layers:
 
 ---
 
-### ⚙️ 5.3 Key Delivery Activities
+### ⚙️ Key Delivery Activities
 
 #### ✅ 1. **Design for Governance from the Start**
 - Define who is accountable (business owner, product owner)
@@ -59,7 +59,7 @@ Most intelligent systems can be broken down into four layers:
 
 ---
 
-### 📊 5.4 Metrics to Track
+### 📊 Metrics to Track
 
 | Metric Type      | Examples |
 |------------------|----------|
@@ -71,7 +71,7 @@ Most intelligent systems can be broken down into four layers:
 
 ---
 
-### 🔐 5.5 Security & Access Control
+### 🔐 Security & Access Control
 
 - Implement role-based access for dashboards, models, and workflows
 - Encrypt sensitive inputs/outputs (e.g. personal or environmental data)
@@ -82,7 +82,7 @@ Most intelligent systems can be broken down into four layers:
 
 ---
 
-### 🧠 5.6 Best Practices by System Type
+### 🧠 Best Practices by System Type
 
 | System Type          | Build & Delivery Tips |
 |----------------------|-----------------------|

@@ -1,4 +1,4 @@
-## ✅ AI System Selection Checklists
+## ✅ 2.4. AI System Selection Checklists
 
 Use the following checklists to help determine which automation or AI approach best fits your use case.
 

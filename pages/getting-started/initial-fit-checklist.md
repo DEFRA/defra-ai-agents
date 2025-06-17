@@ -1,4 +1,4 @@
-## ✅ 2. Initial Fit Checklist
+## ✅ 2.2 Initial Fit Checklist
 
 
 Before investing in AI, RPA, or multi-agent systems, use this checklist to assess what kind of solution is best suited to your use case.

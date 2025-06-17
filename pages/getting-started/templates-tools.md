@@ -1,17 +1,17 @@
-## 📑 7. Templates, Tools & Framework Guidance
+## 📑 2.8 Templates, Tools & Framework Guidance
 
 This section offers guidance, templates, and recommended frameworks to help Defra teams responsibly implement automation or AI strategies, aligned with the **UK Government AI Playbook**.
 
 ---
 
-### 🧾 7.1 UK Government Guidance & Templates
+### 🧾 UK Government Guidance & Templates
 
 | Resource | Description |
 |---------|-------------|
 | [UK Government AI Playbook](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government) | Core guidance on safe, effective, and secure use of AI in government. |
 
 
-### 🤖 7.2 Framework Guidance for Building AI Agents
+### 🤖 Framework Guidance for Building AI Agents
 
 | Vendor / Framework | Best Fit | Guidance & Links |
 |--------------------|----------|-----------------|
@@ -25,11 +25,11 @@ This section offers guidance, templates, and recommended frameworks to help Defr
 
 ---
 
-### ✅ 7.3 Tool-Selection Guide
+### ✅ Tool-Selection Guide
 
-Use this table to help select the most appropriate tooling for your automation or AI system, including support for RPA, AI agents, multi-agent systems, and orchestration workflows.
+Use this table to help select Potential tooling for your automation or AI system, including support for RPA, AI agents, multi-agent systems, and orchestration workflows. Selection should always align with the specific use case, risk profile, and existing platform preferences.
 
-| Requirement / Use Case                                     | Recommended Tool(s)                                                                 |
+| Requirement / Use Case                                     | Potential Tool(s)                                                                 |
 |------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | **Repetitive UI-based tasks**                              | UiPath (RPA)                                                              |
 | **Rule-based data migration between legacy systems**       | Power Automate (Microsoft), UiPath                                                 |

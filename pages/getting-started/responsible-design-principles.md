@@ -1,4 +1,4 @@
-## ⚖️ 4. Responsible Design Principles
+## ⚖️ 2.5. Responsible Design Principles
 
 All AI and automation systems within Defra must be designed and deployed in a way that is **safe, effective, responsible, explainable, and fair**.
 

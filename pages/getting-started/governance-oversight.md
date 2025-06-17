@@ -1,4 +1,4 @@
-## 📂 6. Governance & Oversight
+## 📂 2.7. Governance & Oversight
 
 Strong governance is essential to ensure that AI, automation, and multi-agent systems deployed within Defra are **safe, lawful, ethical, transparent, and aligned with public values**.
 
