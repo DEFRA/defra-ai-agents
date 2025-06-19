@@ -21,7 +21,9 @@ Most intelligent systems can be broken down into four layers:
 
 ### Tool Selection & Integration
 
-| Task / Goal                           | Recommended Tools / Stack |
+Use this table to help select Potential tooling/stack for your automation or AI system, including support for RPA, AI agents, multi-agent systems, and orchestration workflows. Selection should always align with the specific use case, risk profile, and existing platform preferences.
+
+| Task / Goal                           | Potencial Tools / Stack |
 |---------------------------------------|----------------------------|
 | RPA for UI-based automation           | UiPath, Power Automate |
 | Multi-step AI workflows               | LangGraph, Microsoft Semantic Kernel, AWS Step Functions |
