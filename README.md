@@ -1,44 +1,69 @@
-# Defra AI Agent Playbook
-Version 0.1
+# Defra AI Agents Playbook
+This is a repository for the Defra AI Agents Playbook, which provides guidance on how to decide whether a use case is a good fit.
 
-## 📘 Purpose of this Playbook
+## Viewing the Playbook
 
-This playbook helps Defra teams decide whether a use case is a good fit for:
+The guide is best viewed in GitHub pages at https://github.com/DEFRA/defra-ai-agents/.
 
-- 🤖 **AI Agents** – autonomous systems that make decisions or take actions in pursuit of defined goals, often adapting to real-time inputs and environmental context.
+## Updating the Playbook
 
-- 🔁 **AI-Driven Workflows** – orchestrated sequences of rules, models, and tasks, typically including human-in-the-loop review and strong auditability.
+This documentation is written in markdown and is built using Jekyll.
 
-- 🤖 **Traditional Automation (RPA)** – scripted bots that automate repetitive, rule-based tasks, usually via user interfaces (e.g. form filling, copying data between systems).
+### Updating the Playbook Locally
+To update the playbook locally, you will need to ensure the following pre-requisites are met and then follow the steps to build and serve the playbook.
 
-- 🤝 **Multi-Agent Systems** – a group of coordinated AI agents (or components) that interact to achieve shared or individual objectives, often across domains or roles.
+### Pre-requisites
+Ruby (version 2.7 or later) - We recommend using a version manager like rbenv and ruby-build to install Ruby.
 
-It provides practical guidance to assess, design, and implement AI responsibly in line with the **UK Government AI Playbook** principles: **Safe**, **Effective**, **Responsible**, **Explainable**, and **Fair**.
+Bundler - Install it with gem install bundler.
 
+### Building the Playbook
 
-## Table of Contents
-1. [Welcome](README.md)
-2. [Getting Started](pages/getting-started/README.md)
+To build and update the playbook, follow these steps:
 
-    1. [Understanding the Tools](pages/getting-started/understanding-the-tools.md)
-    2. [Initial Fit Checklist](pages/getting-started/initial-fit-checklist.md)
-    3. [Selecting the Right Approach](pages/getting-started/right-approach.md)
-    4. [AI System Selection Checklists](pages/getting-started/ai-checklist.md)
-    5. [Responsible Design Principles](pages/getting-started/responsible-design-principles.md)
-    6. [Technical & Delivery Guidance](pages/getting-started/technical-delivery-guidance.md)
-    7. [Governance & Oversight](pages/getting-started/governance-oversight.md)
-    8. [Templates & Tools](pages/getting-started/templates-tools.md)
-    9. [Example Use Cases](pages/getting-started/examples.md)
-3. [Need Help](pages/help/need-help.md)
+#### Clone the repository:
 
-## Overview
-
-Defra manages environmental protection, food production and rural development across the UK. The department works through multiple sub-departments and arms-length bodies. Each has different roles and ways of working.
-
-Defra's size and complexity create opportunities to use AI throughout software development. This playbook helps you use these opportunities through practical methods, tools and techniques.
+```
+git clone https://github.com/DEFRA/defra-ai-agents
+```
 
 
+#### Navigate to the repository directory:
 
-## Contributing
+```
+cd defra-ai-legacy-modernisation/playbook
+```
 
-We welcome contributions from the Defra community. See the [CONTRIBUTING](pages/appendix/CONTRIBUTING.md) file for how to contribute to this playbook.
+#### Install the required gems:
+
+```
+bundle install
+```
+
+#### Build the site:
+
+```
+bundle exec jekyll build
+```
+
+#### Serve the site locally to preview changes:
+
+```
+bundle exec jekyll serve
+```
+
+Open your web browser and navigate to http://localhost:4000/defra-ai-agents/playbook to view the playbook.
+
+## Licence
+THIS INFORMATION IS LICENSED UNDER THE CONDITIONS OF THE OPEN GOVERNMENT LICENCE found at:
+
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+
+The following attribution statement MUST be cited in your products and applications when using this information.
+
+Contains public sector information licensed under the Open Government license v3
+
+### About the licence
+The Open Government Licence (OGL) was developed by the Controller of Her Majesty's Stationery Office (HMSO) to enable information providers in the public sector to license the use and re-use of their information under a common open licence.
+
+It is designed to encourage use and re-use of information freely and flexibly, with only a few conditions.
