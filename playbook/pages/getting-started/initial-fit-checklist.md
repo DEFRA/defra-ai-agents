@@ -1,32 +1,46 @@
 ## 2.2 Initial Fit Checklist
+Use this score-based checklist to evaluate which type of system best fits your use case: AI Agents, AI Workflows, RPA, or Multi-Agent Systems.
 
-
-Before investing in AI, RPA, or multi-agent systems, use this checklist to assess what kind of solution is best suited to your use case.
-
----
-
-### Checklist Questions
-
-| Question | Explanation | Example |
-|----------|-------------|---------|
-| **1. Does the task require autonomous decision-making?** | The system needs to make decisions or take actions based on defined goals, without a human directly triggering every step. | _An agent that detects rising river levels and activates flood barriers autonomously._ |
-| **2. Is the environment dynamic or context-dependent?** | The data or situation changes frequently and unpredictably, requiring the system to adapt in real time. | _Crop monitoring with weather-dependent decisions that must adjust daily._ |
-| **3. Is the task highly repetitive and rule-based?** | The task is predictable, follows a clear set of rules, and doesn't require human judgement or learning. | _Copying data from a PDF permit form into a legacy reporting system._ |
-| **4. Will the system need to coordinate between multiple roles, systems, or objectives?** | Multiple agents, services, or stakeholders need to collaborate, negotiate, or simulate their behaviour. | _A land-use model balancing conservation, agriculture, and flood mitigation priorities._ |
-| **5. Is interpretability or auditability required for decision-making?** | The decisions must be explainable and traceable for legal, ethical, or public accountability reasons. | _A workflow recommending pesticide use must log reasoning and model inputs for audit._ |
+> Each question is scored from 0 to 3:
+>
+> - **0 = Not true**
+> - **1 = Partially true**
+> - **2 = Mostly true**
+> - **3 = Definitely true**
 
 ---
 
-### Interpretation Guide
+### Questions & Scoring
 
-Use your answers to guide the recommended type of system:
+| Question | Score (0–3) | Notes |
+|----------|-------------|-------|
+| 1. Does the task require autonomous decision-making? |   | E.g. triggering actions based on inputs without human prompts |
+| 2. Is the environment dynamic or context-dependent? |   | Does it need to adapt to changing data or goals? |
+| 3. Is the task highly repetitive and rule-based? |   | Great candidate for RPA or simple workflows |
+| 4. Does the system need to coordinate across roles or domains? |   | Is there collaboration or negotiation across stakeholders? |
+| 5. Does the solution require explainability or human auditability? |   | Will humans need to justify, monitor, or override decisions? |
 
-| If... | Then consider... |
-|-------|------------------|
-| Mostly Yes to Q1 and Q2 | **AI Agent** – because the system needs autonomy and adaptability. |
-| Mostly Yes to Q3 | **Traditional Automation (RPA)** – as it's a clear, repeatable task with no need for intelligence. |
-| Yes to Q4 | **Multi-Agent System** – coordination or simulation across roles is needed. |
-| Yes to Q5 and the process uses AI models or human reviews | **AI Workflow** – traceable steps and oversight are critical. |
+---
+
+### Interpreting the Scores
+
+| System Type               | Indicators |
+|---------------------------|------------|
+| **AI Agent**              | High score (≥5) across Q1 + Q2 |
+| **Traditional Automation (RPA)** | High score (≥2) on Q3, and low scores on Q1, Q2, Q4 |
+| **AI Workflow**           | High scores on Q5 (and possibly Q3), especially if model + rule hybrid |
+| **Multi-Agent System**    | High score (≥2) on Q4, and Q1/Q2 are also moderately high |
+
+---
+
+### Example Interpretation
+
+| Example Use Case                      | Q1 | Q2 | Q3 | Q4 | Q5 | Likely Fit            |
+|--------------------------------------|----|----|----|----|----|------------------------|
+| Automating permit data entry         | 0  | 0  | 3  | 0  | 1  | 🟩 Traditional RPA     |
+| Monitoring invasive species          | 3  | 3  | 1  | 0  | 2  | 🟦 AI Agent             |
+| Policy impact simulation             | 2  | 2  | 1  | 3  | 3  | 🟨 Multi-Agent System   |
+| Subsidy eligibility scoring (audited)| 1  | 1  | 2  | 0  | 3  | 🟧 AI Workflow          |
 
 ---
 
