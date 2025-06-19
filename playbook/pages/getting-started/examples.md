@@ -1,4 +1,4 @@
-## 8. Example Use Cases
+## 2.11. Example Use Cases
 
 > **Note:** The following are example use cases to illustrate where AI Agents, Workflows, RPA, or Multi-Agent Systems *could* be applied within Defra contexts.  
 > They are **not confirmations**

@@ -37,7 +37,8 @@ It provides practical guidance to assess, design, and implement AI responsibly i
     7. [Governance & Oversight](pages/getting-started/governance-oversight.md)
     8. [Templates & Tools](pages/getting-started/templates-tools.md)
     9. [Interoperability Standards: MCP & A2A](pages/getting-started/mcp-a2a.md)
-    10. [Example Use Cases](pages/getting-started/examples.md)
+    10. [Core Interaction Patterns – RAG, Semantic Search & AI Chat](pages/getting-started/core-ai-interaction.md)
+    11. [Example Use Cases](pages/getting-started/examples.md)
 3. [Need Help](pages/help/need-help.md)
 
 ## Overview
