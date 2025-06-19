@@ -1,4 +1,4 @@
-## 📂 2.7. Governance & Oversight
+## 2.7. Governance & Oversight
 
 Strong governance is essential to ensure that AI, automation, and multi-agent systems deployed within Defra are **safe, lawful, ethical, transparent, and aligned with public values**.
 
@@ -7,7 +7,7 @@ This section aligns with the **UK Government AI Playbook** Stage 6: _Govern and 
 
 ---
 
-### 🧭 Key Responsibilities
+### Key Responsibilities
 
 | Role                         | Description |
 |------------------------------|-------------|
@@ -19,7 +19,7 @@ This section aligns with the **UK Government AI Playbook** Stage 6: _Govern and 
 
 ---
 
-### 🧱 Governance Requirements by Tool Type
+### Governance Requirements by Tool Type
 
 | Tool Type             | Governance Requirements |
 |-----------------------|--------------------------|
@@ -30,7 +30,7 @@ This section aligns with the **UK Government AI Playbook** Stage 6: _Govern and 
 
 ---
 
-### 📋 Required Controls & Artefacts
+### Required Controls & Artefacts
 
 | Control or Artefact                        | Purpose |
 |--------------------------------------------|---------|
@@ -41,7 +41,7 @@ This section aligns with the **UK Government AI Playbook** Stage 6: _Govern and 
 
 ---
 
-### 🧠 Best Practice Tips
+### Best Practice Tips
 
 - Embed AI governance in agile delivery – governance is not a final-stage checklist.
 - Conduct **independent peer review** of all medium or high-risk use cases.

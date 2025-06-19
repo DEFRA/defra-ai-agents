@@ -1,4 +1,4 @@
-## 🧭 2.3. Selecting the Right Approach
+## 2.3. Selecting the Right Approach
 
 ### A. Use **AI Agents** When:
 

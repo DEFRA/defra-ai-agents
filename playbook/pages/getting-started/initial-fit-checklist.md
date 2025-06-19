@@ -1,11 +1,11 @@
-## ✅ 2.2 Initial Fit Checklist
+## 2.2 Initial Fit Checklist
 
 
 Before investing in AI, RPA, or multi-agent systems, use this checklist to assess what kind of solution is best suited to your use case.
 
 ---
 
-### ✅ Checklist Questions
+### Checklist Questions
 
 | Question | Explanation | Example |
 |----------|-------------|---------|
@@ -17,20 +17,20 @@ Before investing in AI, RPA, or multi-agent systems, use this checklist to asses
 
 ---
 
-### 🔍 Interpretation Guide
+### Interpretation Guide
 
 Use your answers to guide the recommended type of system:
 
 | If... | Then consider... |
 |-------|------------------|
-| ✅ Mostly Yes to Q1 and Q2 | **AI Agent** – because the system needs autonomy and adaptability. |
-| ✅ Mostly Yes to Q3 | **Traditional Automation (RPA)** – as it's a clear, repeatable task with no need for intelligence. |
-| ✅ Yes to Q4 | **Multi-Agent System** – coordination or simulation across roles is needed. |
-| ✅ Yes to Q5 and the process uses AI models or human reviews | **AI Workflow** – traceable steps and oversight are critical. |
+| Mostly Yes to Q1 and Q2 | **AI Agent** – because the system needs autonomy and adaptability. |
+| Mostly Yes to Q3 | **Traditional Automation (RPA)** – as it's a clear, repeatable task with no need for intelligence. |
+| Yes to Q4 | **Multi-Agent System** – coordination or simulation across roles is needed. |
+| Yes to Q5 and the process uses AI models or human reviews | **AI Workflow** – traceable steps and oversight are critical. |
 
 ---
 
-### 🧠 Tips
+### Tips
 
 - If your task is mostly static and structured, start with RPA or an AI Workflow before exploring full AI Agents.
 - Multi-Agent Systems should only be considered when there’s real complexity in coordination or simulation.

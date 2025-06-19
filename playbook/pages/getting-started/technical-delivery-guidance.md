@@ -1,10 +1,10 @@
-## 🛠️ 2.6. Technical & Delivery Guidance
+## 2.6. Technical & Delivery Guidance
 
 This section provides practical guidance for designing, building, testing, and deploying AI agents, workflows, RPA bots, and multi-agent systems within Defra.
 
 ---
 
-### 🧱 System Architecture Layers
+### System Architecture Layers
 
 Most intelligent systems can be broken down into four layers:
 
@@ -15,11 +15,11 @@ Most intelligent systems can be broken down into four layers:
 | **Action (Execution)**  | Performs actions: updates systems, sends alerts, triggers APIs, etc. | RPA, Agents, Workflows |
 | **Feedback/Adaptation** | Captures outcomes or errors to enable learning or improve future responses. | AI Agents, MAS (optional in RPA/Workflows) |
 
-> 💡 AI Agents and MAS should be designed with **feedback loops** to adapt based on performance or outcomes.
+> AI Agents and MAS should be designed with **feedback loops** to adapt based on performance or outcomes.
 
 ---
 
-### 🛠️ Tool Selection & Integration
+### Tool Selection & Integration
 
 | Task / Goal                           | Recommended Tools / Stack |
 |---------------------------------------|----------------------------|
@@ -31,35 +31,35 @@ Most intelligent systems can be broken down into four layers:
 
 ---
 
-### ⚙️ Key Delivery Activities
+### Key Delivery Activities
 
-#### ✅ 1. **Design for Governance from the Start**
+#### 1. **Design for Governance from the Start**
 - Define who is accountable (business owner, product owner)
 - Create a deployment plan that includes fail-safes, monitoring, and oversight points
 
-#### ✅ 2. **Test Models, Workflows, and Agents Thoroughly**
+#### 2. **Test Models, Workflows, and Agents Thoroughly**
 - Use real data in sandbox environments
 - Define metrics (accuracy, latency, false positive rate, impact)
 - Include human-in-the-loop testing for critical decisions
 
-#### ✅ 3. **Secure and Document the Data Pipeline**
+#### 3. **Secure and Document the Data Pipeline**
 - Validate data quality, completeness, and bias before training or automation
 - Use Defra data standards for consistency
 - Store and version datasets and models for audit purposes
 
-#### ✅ 4. **Deploy with Monitoring and Alerting**
+#### 4. **Deploy with Monitoring and Alerting**
 - Log all actions by agents or bots (inputs, outputs, decisions)
 - Set alerts for failures, thresholds breached, or unexpected behaviour
 - Use dashboards to support live operations and oversight
 
-#### ✅ 5. **Plan for Post-Deployment Learning or Iteration**
+#### 5. **Plan for Post-Deployment Learning or Iteration**
 - Set regular review cycles for updating models, rules, or behaviours
 - Incorporate user feedback mechanisms (especially for internal tools)
 - Maintain a change log for governance and improvement tracking
 
 ---
 
-### 📊 Metrics to Track
+### Metrics to Track
 
 | Metric Type      | Examples |
 |------------------|----------|
@@ -71,18 +71,18 @@ Most intelligent systems can be broken down into four layers:
 
 ---
 
-### 🔐 Security & Access Control
+### Security & Access Control
 
 - Implement role-based access for dashboards, models, and workflows
 - Encrypt sensitive inputs/outputs (e.g. personal or environmental data)
 - Ensure audit logging is in place for any decisions affecting citizens or the environment
 - Follow Defra and CDDO guidance on secure deployment and monitoring
 
-> 📚 Refer to: [Gov UK AI Playbook – Build and Test](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government)
+> Refer to: [Gov UK AI Playbook – Build and Test](https://www.gov.uk/government/publications/ai-playbook-for-the-uk-government)
 
 ---
 
-### 🧠 Best Practices by System Type
+### Best Practices by System Type
 
 | System Type          | Build & Delivery Tips |
 |----------------------|-----------------------|

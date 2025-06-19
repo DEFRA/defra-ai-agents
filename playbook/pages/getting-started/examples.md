@@ -1,6 +1,6 @@
-## 🧩 8. Example Use Cases
+## 8. Example Use Cases
 
-> ⚠️ **Note:** The following are example use cases to illustrate where AI Agents, Workflows, RPA, or Multi-Agent Systems *could* be applied within Defra contexts.  
+> **Note:** The following are example use cases to illustrate where AI Agents, Workflows, RPA, or Multi-Agent Systems *could* be applied within Defra contexts.  
 > They are **not confirmations**
 
 | Use Case                             | Tool                    | Why                                                                 |
@@ -19,4 +19,13 @@
 | Permit data entry automation    | Traditional Automation  | RPA bot copies standard data from PDF forms into a database.         |
 | Legacy system reporting        | Traditional Automation  | RPA bot logs into system and extracts data daily.                    |
 | Bulk notification processing    | Traditional Automation  | RPA bot sends templated messages to thousands of records.            |
+
+---
+
+### Emerging Interoperability Patterns (MCP & A2A)
+
+| Use Case                             | Tool/Pattern           | Why                                                                 |
+|-------------------------------------|--------------------------|----------------------------------------------------------------------|
+| Automated environmental assessment pipeline | Model Context Protocol (MCP) | An AI agent reviews a development proposal by retrieving geospatial data, invoking an environmental impact model, and generating a summary. Each tool and model is accessed via a standardised MCP interface to ensure modularity and traceability across platforms. |
+| Agent collaboration for land negotiation | Agent-to-Agent (A2A) | One agent represents agricultural priorities, another biodiversity, and a third public safety. They exchange structured offers/responses to simulate and optimise trade-offs in a land management plan. |
 

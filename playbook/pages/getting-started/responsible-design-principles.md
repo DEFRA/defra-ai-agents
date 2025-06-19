@@ -1,10 +1,10 @@
-## ⚖️ 2.5. Responsible Design Principles
+## 2.5. Responsible Design Principles
 
 All AI and automation systems within Defra must be designed and deployed in a way that is **safe, effective, responsible, explainable, and fair**.
 
 ---
 
-### ✅ Safe
+### Safe
 
 > “The system does not cause unintended harm.”
 
@@ -12,12 +12,12 @@ All AI and automation systems within Defra must be designed and deployed in a wa
 |----------|-------------|
 | **All systems** | Conduct risk assessments before launch. Test under real-world conditions. Establish safety limits and fallback mechanisms. |
 | **AI Agents** | Include boundaries on what the agent can do; implement safe interrupt/override capabilities. |
-| **RPA** | Ensure bots fail safely — e.g. log errors and notify users instead of continuing silently. |
+| **RPA** | Ensure bots fail safely e.g. log errors and notify users instead of continuing silently. |
 | **Multi-Agent Systems** | Define agent roles clearly; simulate emergent behaviour to test for instability or risk amplification. |
 
 ---
 
-### ✅ Effective
+### Effective
 
 > “The system achieves its intended purpose and adds value.”
 
@@ -30,7 +30,7 @@ All AI and automation systems within Defra must be designed and deployed in a wa
 
 ---
 
-### ✅ Responsible
+### Responsible
 
 > “The system is used legally, ethically, and with human oversight.”
 
@@ -43,7 +43,7 @@ All AI and automation systems within Defra must be designed and deployed in a wa
 
 ---
 
-### ✅ Explainable
+### Explainable
 
 > “Decisions and actions are understandable to users and stakeholders.”
 

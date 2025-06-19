@@ -1,4 +1,4 @@
-## 🔍 2.1. Understanding the Tools
+## 2.1. Understanding the Tools
 
 | Tool | Description | When to Use | Simple Real-World Example |
 |------|-------------|-------------|----------------------------|

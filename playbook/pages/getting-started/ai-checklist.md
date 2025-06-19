@@ -1,4 +1,4 @@
-## ✅ 2.4. AI System Selection Checklists
+## 2.4. AI System Selection Checklists
 
 Use the following checklists to help determine which automation or AI approach best fits your use case.
 
@@ -6,7 +6,7 @@ Each question includes a simple example relevant to Defra to help guide your ans
 
 ---
 
-### 🤖 AI Agent Checklist
+### AI Agent Checklist
 
 Tick the boxes if the statement applies to your use case:
 
@@ -25,11 +25,11 @@ Tick the boxes if the statement applies to your use case:
 - [ ] Is low-latency, high-frequency decision-making important?  
   _Example: An autonomous irrigation agent that quickly reacts to soil moisture sensors to avoid crop stress._
 
-✅ **If you ticked 3 or more, an AI Agent may be suitable.**
+**If you ticked 3 or more, an AI Agent may be suitable.**
 
 ---
 
-### 🔁 AI Workflow Checklist
+### AI Workflow Checklist
 
 Tick the boxes if the statement applies:
 
@@ -48,11 +48,11 @@ Tick the boxes if the statement applies:
 - [ ] Is compliance with regulatory or legal processes critical?  
   _Example: Environmental compliance checks that require both AI assistance and full traceability._
 
-✅ **If you ticked 3 or more, consider using an AI Workflow.**
+**If you ticked 3 or more, consider using an AI Workflow.**
 
 ---
 
-### 🤖 Traditional Automation (RPA) Checklist
+### Traditional Automation (RPA) Checklist
 
 Tick the boxes if the statement applies:
 
@@ -71,11 +71,11 @@ Tick the boxes if the statement applies:
 - [ ] Would a macro or script solve the problem, but you want it to scale?  
   _Example: A bot that processes hundreds of similar permit renewals per week._
 
-✅ **If you ticked 3 or more, RPA may be the best fit.**
+**If you ticked 3 or more, RPA may be the best fit.**
 
 ---
 
-### 🤝 Multi-Agent System Checklist
+### Multi-Agent System Checklist
 
 Tick the boxes if the statement applies:
 
@@ -94,11 +94,11 @@ Tick the boxes if the statement applies:
 - [ ] Would simulation of stakeholder behaviour be valuable?  
   _Example: Testing how different land management policies might affect farming output and biodiversity._
 
-✅ **If you ticked 3 or more, a Multi-Agent System may be appropriate.**
+**If you ticked 3 or more, a Multi-Agent System may be appropriate.**
 
 ---
 
-### 📌 Tip
+### Tip
 
 You can combine approaches:
 
