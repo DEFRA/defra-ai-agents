@@ -8,6 +8,7 @@ This playbook is a living document that provides practical guidance on evaluatin
 
 > **Note:** All examples provided in this playbook are **illustrative** and intended to show **contextual possibilities only**.  
 > They do **not** represent confirmation of existing systems or projects currently in use by Defra.
+> Any examples of potential AI tools and framework use (e.g. LangChain, Azure AI Studio, Semantic Kernel, OpenAI Assistants) are illustrative only. **Always consult the Defra AI Tools Authority or your technical governance lead** before selecting or implementing any AI technology to ensure alignment with internal standards, approved platforms, and procurement policy.
 
 
 

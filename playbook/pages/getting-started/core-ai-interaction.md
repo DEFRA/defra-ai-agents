@@ -70,7 +70,7 @@ AI chat allows users to interact with agents, workflows, or knowledge bases thro
 
 ---
 
-### ✅ Summary Table
+### Summary Table
 
 | Pattern            | Use Case Example                             | Where It Fits                   |
 |--------------------|----------------------------------------------|----------------------------------|
