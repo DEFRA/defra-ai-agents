@@ -4,6 +4,10 @@ Emerging industry standards now enable **secure, modular, and scalable AI agent 
 
 This section introduces two key open specifications that Defra teams should be aware of when designing future-proof and collaborative AI systems.
 
+> **Note:** Any example use cases are to illustrate where Interoperability Standards *could* be applied within Defra contexts.  
+> They are **not confirmations**
+
+
 ---
 
 ### Model Context Protocol (MCP)
@@ -14,7 +18,7 @@ This section introduces two key open specifications that Defra teams should be a
 
 #### Why it matters
 
-- Promotes **vendor-neutral interoperability** across models (e.g. OpenAI, Anthropic, Google, Microsoft)
+- Promotes **vendor-neutral interoperability** across models (e.g. OpenAI, Anthropic, AWS, Microsoft)
 - Enables **modular agent architectures** with swappable models and tools
 - Improves **auditability and security** by standardising tool definitions and execution flows
 
@@ -66,7 +70,6 @@ This section introduces two key open specifications that Defra teams should be a
 | **Stage 5: Deploy**    | Enables integrated agent ecosystems across platforms |
 | **Stage 6: Govern**    | Logs and schemas simplify oversight, transparency, and compliance |
 
----
 
 ### Summary
 

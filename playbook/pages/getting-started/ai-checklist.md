@@ -4,6 +4,9 @@ Use the following checklists to help determine which automation or AI approach b
 
 Each question includes a simple example relevant to Defra to help guide your answers.
 
+> **Note:** Any example use cases are to illustrate where AI Agents, Workflows, RPA, or Multi-Agent Systems *could* be applied within Defra contexts.  
+> They are **not confirmations**
+
 ---
 
 ### AI Agent Checklist

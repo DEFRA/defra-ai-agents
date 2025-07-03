@@ -10,6 +10,10 @@ These are reusable building blocks that support explainability, safety, and usab
 
 > ⚠️ These patterns may be used individually or together — but they require additional governance considerations when deployed at scale or for public use.
 
+> **Note:** Any example use cases are to illustrate where Core Interaction Patterns *could* be applied within Defra contexts.  
+> They are **not confirmations**
+
+
 ---
 
 ### Semantic Search

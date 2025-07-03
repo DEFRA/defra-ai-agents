@@ -1,5 +1,9 @@
 ## 2.3. Selecting the Right Approach
 
+> **Note:** Any example use cases are to illustrate where AI Agents, Workflows, RPA, or Multi-Agent Systems *could* be applied within Defra contexts.  
+> They are **not confirmations**
+
+
 ### A. Use **AI Agents** When:
 
 - The system needs **goal-directed behaviour**  

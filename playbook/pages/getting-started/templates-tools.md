@@ -23,7 +23,7 @@ This section offers guidance, templates, and recommended frameworks to help Defr
 | **OpenAI / ChatGPT** | General-purpose agents, API orchestration | Use Agents SDK with function calling and tool support (MCP adoption with Claude)  |
 | **Google (Gemini agents)** | Conversational assistants & multimodal agents | Gemini to adopt MCP protocol and support rich interactions |
 
----
+
 
 ### Tool-Selection Guide
 
@@ -45,7 +45,6 @@ Use this table to help select Potential tooling for your automation or AI system
 | **Visual workflow prototyping (low-code/no-code)**         | Microsoft Power Automate                                        |
 | **Enterprise policy compliance & identity integration**    | Microsoft Purview, Azure OpenAI, AWS IAM with AI services                           |
 
----
 
 ### Platform Notes
 

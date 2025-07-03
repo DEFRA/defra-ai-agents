@@ -1,6 +1,10 @@
 ## 2.1. Understanding the Tools
 
-| Tool | Description | When to Use | Simple Real-World Example |
+> **Note:** Any example use cases are to illustrate where AI Agents, Workflows, RPA, or Multi-Agent Systems *could* be applied within Defra contexts.  
+> They are **not confirmations**
+
+
+| Tool | Description | When to Use | Example |
 |------|-------------|-------------|----------------------------|
 | **AI Agent** | An autonomous system that makes decisions or performs tasks based on goals and context. | When you need a system that can make dynamic decisions, respond to changing environments, and act independently. | **Smart thermostat**: Adjusts temperature based on preferences, weather, and occupancy without human input. |
 | **AI Workflow** | A structured sequence of AI-enabled tasks or models, often involving humans-in-the-loop. | When the process is repetitive, rule-based, or model-driven but doesn’t require autonomy. | **Email spam filter**: Emails are scanned by an AI model and flagged, with final decisions made by the user. |

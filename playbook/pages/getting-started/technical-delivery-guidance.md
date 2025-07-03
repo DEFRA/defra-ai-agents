@@ -26,9 +26,9 @@ Use this table to help select Potential tooling/stack for your automation or AI 
 | Task / Goal                           | Potencial Tools / Stack |
 |---------------------------------------|----------------------------|
 | RPA for UI-based automation           | UiPath, Power Automate |
-| Multi-step AI workflows               | LangGraph, Microsoft Semantic Kernel, AWS Step Functions |
-| Agent development                     | Azure AI Studio (GPT via OpenAI), Claude Agents (via Bedrock), AutoGen |
-| Integration with Defra systems        | RESTful APIs, Azure Logic Apps, Microsoft Graph |
+| Multi-step AI workflows               | LangGraph, Microsoft Semantic Kernel |
+| Agent development                     | Azure AI Foundary (GPT via OpenAI), Claude Agents (via Bedrock), AutoGen |
+| Integration with Defra systems        | RESTful APIs, Microsoft Graph |
 | Data pipelines                        | Azure Data Factory, AWS Glue, Pandas for transformation |
 
 ---
@@ -40,7 +40,7 @@ Use this table to help select Potential tooling/stack for your automation or AI 
 - Create a deployment plan that includes fail-safes, monitoring, and oversight points
 
 #### 2. **Test Models, Workflows, and Agents Thoroughly**
-- Use real data in sandbox environments
+- Use real data in approved environments
 - Define metrics (accuracy, latency, false positive rate, impact)
 - Include human-in-the-loop testing for critical decisions
 
