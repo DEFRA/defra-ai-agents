@@ -1,10 +1,10 @@
 ## 2.8 Templates, Tools & Framework Guidance
 
-This section offers guidance, templates, and recommended frameworks to help Defra teams responsibly implement automation or AI strategies, aligned with the **UK Government AI Playbook**.
+This section offers guidance, templates, and potencial frameworks to help Defra teams responsibly implement automation or AI strategies, aligned with the **UK Government AI Playbook**.
 
 ---
 
-### UK Government Guidance & Templates
+### UK Government Guidance
 
 | Resource | Description |
 |---------|-------------|
@@ -12,6 +12,8 @@ This section offers guidance, templates, and recommended frameworks to help Defr
 
 
 ### Framework Guidance for Building AI Agents
+
+Use this table to help select potential vendor/framework for your automation or AI system. Selection should always align with the specific use case, risk profile, and existing platform preferences.
 
 | Vendor / Framework | Best Fit | Guidance & Links |
 |--------------------|----------|-----------------|

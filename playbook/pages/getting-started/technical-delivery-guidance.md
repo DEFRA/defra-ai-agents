@@ -17,7 +17,6 @@ Most intelligent systems can be broken down into four layers:
 
 > AI Agents and MAS should be designed with **feedback loops** to adapt based on performance or outcomes.
 
----
 
 ### Tool Selection & Integration
 
@@ -31,7 +30,6 @@ Use this table to help select Potential tooling/stack for your automation or AI 
 | Integration with Defra systems        | RESTful APIs, Microsoft Graph |
 | Data pipelines                        | Azure Data Factory, AWS Glue, Pandas for transformation |
 
----
 
 ### Key Delivery Activities
 
@@ -71,7 +69,6 @@ Use this table to help select Potential tooling/stack for your automation or AI 
 | **Transparency** | % of decisions logged with justification; ATRS completed |
 | **Safety**       | Number of errors detected; time to detect/respond to anomalies |
 
----
 
 ### Security & Access Control
 

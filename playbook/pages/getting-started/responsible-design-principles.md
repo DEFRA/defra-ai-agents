@@ -15,7 +15,6 @@ All AI and automation systems within Defra must be designed and deployed in a wa
 | **RPA** | Ensure bots fail safely e.g. log errors and notify users instead of continuing silently. |
 | **Multi-Agent Systems** | Define agent roles clearly; simulate emergent behaviour to test for instability or risk amplification. |
 
----
 
 ### Effective
 
@@ -28,7 +27,6 @@ All AI and automation systems within Defra must be designed and deployed in a wa
 | **AI Agents** | Continuously monitor for decision quality in real-world scenarios. |
 | **Multi-Agent Systems** | Validate that coordination adds value and doesn’t introduce unnecessary complexity. |
 
----
 
 ### Responsible
 
@@ -41,7 +39,6 @@ All AI and automation systems within Defra must be designed and deployed in a wa
 | **RPA** | Avoid automating ethically sensitive tasks unless oversight is guaranteed. |
 | **Multi-Agent Systems** | Include escalation paths when agents disagree or outcomes are contested. |
 
----
 
 ### Explainable
 

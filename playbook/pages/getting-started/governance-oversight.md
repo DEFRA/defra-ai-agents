@@ -17,7 +17,6 @@ This section aligns with the **UK Government AI Playbook** Stage 6: _Govern and 
 | **Technical Lead / Developer** | Manages build quality, performance, audit trails, and compliance with data and software standards. |
 | **Governance / Compliance Team** | Oversees alignment with legal frameworks (e.g. UK GDPR), AI risk assessments, and transparency standards. |
 
----
 
 ### Governance Requirements by Tool Type
 
@@ -28,7 +27,6 @@ This section aligns with the **UK Government AI Playbook** Stage 6: _Govern and 
 | **Traditional Automation (RPA)** | Clear scripting logic, data access controls, business continuity plan if bots fail. |
 | **Multi-Agent Systems** | Role isolation, agent negotiation policies, agent-level audit logs, conflict resolution strategy. |
 
----
 
 ### Required Controls & Artefacts
 
@@ -39,7 +37,6 @@ This section aligns with the **UK Government AI Playbook** Stage 6: _Govern and 
 | **Model & Agent Version Control**           | Ensures traceability and rollback capability for changes in model or agent logic. |
 | **Impact Review & Feedback Loops**          | Establish mechanisms to gather impact data and public or user feedback. |
 
----
 
 ### Best Practice Tips
 
