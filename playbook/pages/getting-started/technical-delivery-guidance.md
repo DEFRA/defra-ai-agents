@@ -2,6 +2,8 @@
 
 This section provides practical guidance for designing, building, testing, and deploying AI agents, workflows, RPA bots, and multi-agent systems within Defra.
 
+> **Note:** Any examples of potential AI tools and framework use (e.g. LangChain, Azure AI Studio, Semantic Kernel, OpenAI Assistants) are illustrative only. Always consult the Defra AI Tools Authority or your technical governance lead before selecting or implementing any AI technology to ensure alignment with internal standards, approved platforms, and procurement policy.
+
 ---
 
 ### System Architecture Layers

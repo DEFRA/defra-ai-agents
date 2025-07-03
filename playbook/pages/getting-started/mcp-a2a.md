@@ -7,6 +7,8 @@ This section introduces two key open specifications that Defra teams should be a
 > **Note:** Any example use cases are to illustrate where Interoperability Standards *could* be applied within Defra contexts.  
 > They are **not confirmations**
 
+> Any examples of potential AI tools and framework use (e.g. LangChain, Azure AI Studio, Semantic Kernel, OpenAI Assistants) are illustrative only. Always consult the Defra AI Tools Authority or your technical governance lead before selecting or implementing any AI technology to ensure alignment with internal standards, approved platforms, and procurement policy.
+
 
 ---
 

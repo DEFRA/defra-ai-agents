@@ -2,6 +2,8 @@
 
 This section offers guidance, templates, and potencial frameworks to help Defra teams responsibly implement automation or AI strategies, aligned with the **UK Government AI Playbook**.
 
+> **Note:** Any examples of potential AI tools and framework use (e.g. LangChain, Azure AI Studio, Semantic Kernel, OpenAI Assistants) are illustrative only. Always consult the Defra AI Tools Authority or your technical governance lead before selecting or implementing any AI technology to ensure alignment with internal standards, approved platforms, and procurement policy.
+
 ---
 
 ### UK Government Guidance
